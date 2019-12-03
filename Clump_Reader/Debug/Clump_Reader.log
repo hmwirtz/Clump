@@ -1,0 +1,3 @@
+﻿  Clump_Reader.cpp
+C:\Users\Harrison\source\repos\Clump_Reader\Clump_Reader\Clump_Reader.cpp(30,23): warning C4244:  'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  Clump_Reader.vcxproj -> C:\Users\Harrison\source\repos\Clump_Reader\Debug\Clump_Reader.exe
