@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <fstream>
+#include "Clump.h"
 using namespace std;
 
 string getFileName()
